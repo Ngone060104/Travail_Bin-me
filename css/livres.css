@@ -6,7 +6,9 @@ body {
 h1 {
     color: darkblue;
 }
-
+#titre1{
+    background-color: aliceblue;
+}
 ul {
     background-color: white;
     padding: 20px;
